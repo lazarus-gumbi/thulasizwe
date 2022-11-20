@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+
+.hero-text{
+    font-weight:900;
+    font-size: 1.7em;
+
+}
+
+.read-more{
+    padding: 0rem 1rem 1rem 0rem;
+    color: #800000;
+    width: 8rem;
+}
+
+.read-more:hover{
+    color: black;
+}
+ .services li{
+    font-size: 1.2rem;
+ }
+
+ .nav-link{
+    font-weight: 700 !important;
+ }
+
+ .serv{
+    border: none !important;
+ }
+
+ .pill{
+    background-color: #800000;
+    color: white;
+    width: fit-content;
+    padding: 0rem 1rem;
+    border-radius: 30px 30px 30px 30px;
+ }
+
+ input{
+    border: 1px solid #333 !important;
+ }
+
+ textarea{
+    border: 1px solid #333 !important;
+ }
+ .footer-info{
+    color: white;
+ }
